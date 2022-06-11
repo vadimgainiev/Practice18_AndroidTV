@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Practice18_AndroidTV" parent="@style/Theme.Leanback" />
+</resources>
